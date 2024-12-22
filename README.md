@@ -42,6 +42,16 @@ def имя := значение
 возможной вложенности) должны быть покрыты тестами. Необходимо показать 2
 примера описания конфигураций из разных предметных областей
 
+Конф_3_image2.png
+Конф_3_image1.png
 
-![image](https://github.com/user-attachments/assets/cf6b48a9-fb32-4ec7-8aad-40270706abc9)![image](https://github.com/user-attachments/assets/16292736-fc09-428c-855f-3fdb623dfe78)
-
+<table>
+  <tr>
+    <td>
+      <img src="Image/Конф_3_image1.png" alt="Json-файл" width="300">
+    </td>
+    <td>
+      <img src="Image/Конф_3_image2.png" alt="test.conf" width="300">
+    </td>
+  </tr>
+</table>
