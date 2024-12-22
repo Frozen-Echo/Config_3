@@ -45,7 +45,7 @@ def имя := значение
 <table>
   <tr>
     <td>
-      <img src="Image/Конф_3_image1.png" alt="Json-файл" width="300">
+      <img src="Image/Конф_3_image1.png" alt="Json-файл" width="400">
     </td>
     <td>
       <img src="Image/Конф_3_image2.png" alt="test.conf" width="300">
