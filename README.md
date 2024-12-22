@@ -45,10 +45,14 @@ def имя := значение
 <table>
   <tr>
     <td>
-      <img src="Image/Конф_3_image1.png" alt="Json-файл" width="400">
+      <img src="Image/конф_3_image1.png" alt="Json-файл" width="300">
     </td>
     <td>
       <img src="Image/Конф_3_image2.png" alt="test.conf" width="300">
     </td>
   </tr>
 </table>
+
+Тесты:
+
+![image](https://github.com/user-attachments/assets/6f3c7ce5-74dc-40e1-a7fc-3cfff3361eb9)
